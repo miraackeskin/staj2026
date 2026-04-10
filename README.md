@@ -51,3 +51,12 @@
 ## Gün 11 - 03/04/2026
 - JavaScript ile ilgili döküman'lar izlendi
 
+## Gün 12 - 08/04/2026
+- HTML ile ilgili dökümanlar izlendi
+
+## Gün 13 - 09/04/2026
+- CSS ile ilgili dökümanlar izlendi
+
+## Gün 14 - 10/04/2026
+- JavaScript kod satırları ile ilgili dökümanlar izlendi
+
