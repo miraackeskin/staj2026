@@ -49,7 +49,7 @@
 - Adobe Creative Cloud kısmı izlendi
 
 ## Gün 11 - 03/04/2026
-- JavaScript ile ilgili döküman'lar izlendi
+- JavaScript ile ilgili dökümanlar izlendi
 
 ## Gün 12 - 08/04/2026
 - HTML ile ilgili dökümanlar izlendi
